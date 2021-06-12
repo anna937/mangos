@@ -88,5 +88,6 @@ function keyPressed() {
    Matter.Body.setStatic(lmango.body , false);
  } 
 }
-
+display()
+}
 
